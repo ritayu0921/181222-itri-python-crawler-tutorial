@@ -1,14 +1,13 @@
 181222-day2-quiz
 1. 為什麼 Python 程式語言要分成 Python2, Python3 不同的版本，使用上有什麼問題？
 
-python3是開發者
+
 
 2. 完成以下填空：
-
-使用者在看瀏覽網站的操作行為，使基於【＿＿＿＿】 協定：
+使用者在看瀏覽網站的操作行為，使基於【＿＿HXML＿＿】 協定：
 使用者在瀏覽器上輸入網址…
-[使用者/Client side] 發送 【＿＿＿＿】 給 [網站伺服器/ Server side]
-[網站伺服器/ Server side] 回傳 【＿＿＿＿】給 [使用者/Client side] 瀏覽器將內容處理之後顯示給使用者…
+[使用者/Client side] 發送 【＿request＿＿＿】 給 [網站伺服器/ Server side]
+[網站伺服器/ Server side] 回傳 【＿response＿＿＿】給 [使用者/Client side] 瀏覽器將內容處理之後顯示給使用者…
 
 3. 請問動態網頁爬蟲跟靜態網頁爬蟲主要的差別是什麼？
 
